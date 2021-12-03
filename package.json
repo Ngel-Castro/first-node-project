@@ -10,7 +10,7 @@
     "login",
     "first-project-node"
   ],
-  "author": "Angel Castro",
+  "author": "Community of Practice",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.1.3",
